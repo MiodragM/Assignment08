@@ -90,6 +90,11 @@ public class Assignment8 extends JComponent{
         g.fillRect(840, 570, 90, 30);
         g.fillRect(750, 600, 120, 30);
         g.fillRect(900, 480, 30, 30);
+        g.fillRect(930, 510, 30, 60);
+        g.fillRect(540, 630, 30, 30);
+        g.fillRect(510, 660, 30, 90);
+        g.fillRect(540, 750, 30, 30);
+        g.fillRect(540, 750, 30, 30);
         
         
         
