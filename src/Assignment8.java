@@ -96,10 +96,19 @@ public class Assignment8 extends JComponent{
         g.fillRect(540, 750, 30, 30);
         g.fillRect(540, 750, 30, 30);
         
+        //Helmet colour
+        g.setColor(Color.blue);
+        g.fillRect(390, 270, 90, 120);
+        g.fillRect(360, 300, 30, 210);
+        g.fillRect(480, 300, 30, 90);
+        g.fillRect(510, 360, 30, 30);
+        g.fillRect(540, 390, 60, 30);
+        g.fillRect(600, 330, 30, 60);
+        g.fillRect(390, 510, 30, 30);
         
-        
-        
-        
+            
+        g.setColor(Color.CYAN);
+        g.fillRect(330, 360, 30, 90);
         // GAME DRAWING ENDS HERE
     }
     
